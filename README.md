@@ -1,1 +1,1 @@
-# courseProject
+# OOP Course Project
